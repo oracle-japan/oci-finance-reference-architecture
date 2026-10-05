@@ -1,8 +1,3 @@
----
-layout: default
-title: Oracle Cloud 金融リファレンスアーキテクチャ
----
-
 # Oracle Cloud 金融リファレンスアーキテクチャ
 
 ## はじめに
