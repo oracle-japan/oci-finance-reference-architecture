@@ -87,3 +87,6 @@ FISC安全対策基準に対し寄与するOCIサービスは以下のリンク�
 
 アドバイザー：下道  
 監修：金融Grp 山浦、宮永、技術支援Grp 凯
+
+<script data-goatcounter="https://ojfsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
