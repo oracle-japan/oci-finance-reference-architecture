@@ -6,3 +6,6 @@ API連携基盤には、安全な認証・認可、通信の統制、外部連�
 
 ## Terraformスクリプト
 Coming Soon
+
+<script data-goatcounter="https://ojfsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

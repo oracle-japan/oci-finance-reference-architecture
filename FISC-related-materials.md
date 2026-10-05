@@ -13,3 +13,6 @@ FISCの中で「実務」に関する基準に寄与するOCIサービスを記�
   [fisc_ver13_mappingをダウンロード](./fisc/fisc_ver13_mapping_20260825.xlsx)  
 ・FISC ver14版  
 Coming Soon
+
+<script data-goatcounter="https://ojfsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

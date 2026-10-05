@@ -6,3 +6,6 @@
 
 ## Terraformスクリプト
 サイバーBCPは運用を主としたリファレンスアーキテクチャであるためTerraformスクリプトはございません。
+
+<script data-goatcounter="https://ojfsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -6,3 +6,6 @@
 
 ## Terraformスクリプト
 Coming Soon
+
+<script data-goatcounter="https://ojfsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

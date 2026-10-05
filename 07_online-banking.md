@@ -9,3 +9,6 @@
 使用方法、免責事項についてはフォルダ内のReadmeをご確認ください。
 
 [Terraform online-bankingサンプル一式をダウンロード](./terraform/online-banking-package.zip)
+
+<script data-goatcounter="https://ojfsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

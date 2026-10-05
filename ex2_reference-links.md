@@ -13,3 +13,6 @@ https://oracle-japan.github.io/ocitutorials/
 https://livelabs.oracle.com/ords/r/dbpm/livelabs/home  
 ・サポートサイト  
 https://support.oracle.com/signin
+
+<script data-goatcounter="https://ojfsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
