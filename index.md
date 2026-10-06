@@ -7,9 +7,6 @@
 
 ![](images/oci_finance-reference-architecture_flyer.png)
 
-![](images/figure04.png)
-
-![](images/figure03.png)
 
 ## インデックス
 
@@ -60,6 +57,10 @@
 12. 参考リンク
 
     [ex2_reference-links.md](ex2_reference-links.md)
+
+![](images/figure04.png)
+
+![](images/figure03.png)
 
 ## FISC対応表
 FISC安全対策基準に対し寄与するOCIサービスは以下のリンクよりご確認頂けます。  
